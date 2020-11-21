@@ -22,7 +22,7 @@ If you like, you can follow this repository's instructions to do the exercises u
 
 [AWS Lambda Demo](Week%203/aws-lambda-demo%20)
 
-[Exercise 3.1 Creating an AWS Lambda Function](Week%203/Exercise%203.1%20Creating%20an%20AWS%20Lambda%20Function.m)
+[Exercise 3.1 Creating an AWS Lambda Function](Week%203/Exercise%203.1%20Creating%20an%20AWS%20Lambda%20Function.md)
 
 [Exercise 3.2 Amazon DynamoDB](Week%203/Exercise%203.2%20Amazon%20DynamoDB.md)
 
