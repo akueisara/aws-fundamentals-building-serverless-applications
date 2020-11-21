@@ -1,6 +1,6 @@
 ## AWS Fundamentals: Building Serverless Applications
 
-These exercises are from the Courser course https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications 
+These exercises are from the Coursera course https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications 
 
 The course is taught in JavaScript. I editted the instructions for the exercises and added the Python code instead. 
 
