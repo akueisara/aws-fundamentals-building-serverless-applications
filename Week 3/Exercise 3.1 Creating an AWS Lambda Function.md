@@ -7,22 +7,22 @@
 ![week3-ex-3-1-3](week3-ex-3-1-3.png)
 
 ```json
-    {
-        "Version": "2012-10-17",
-        "Statement": [
-            {
-                "Effect": "Allow",
-                "Action": [
-                    "logs:CreateLogGroup",
-                    "logs:CreateLogStream",
-                    "logs:PutLogEvents"
-                ],
-                "Resource": [
-                    "arn:aws:logs:*:*:*"
-                ]
-            }
-        ]
-    }
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "logs:CreateLogGroup",
+                "logs:CreateLogStream",
+                "logs:PutLogEvents"
+            ],
+            "Resource": [
+                "arn:aws:logs:*:*:*"
+            ]
+        }
+    ]
+}
 ```
 
 ![week3-ex-3-1-4](week3-ex-3-1-4.png)
@@ -42,9 +42,9 @@ def lambda_handler(event, context):
 ![week3-ex-3-1-6](week3-ex-3-1-6.png)
 
 ```json
-    {
-     "city_str": "LA"
-    }
+{
+ "city_str": "LA"
+}
 ```
 
 ![week3-ex-3-1-7](week3-ex-3-1-7.png)
@@ -56,25 +56,25 @@ def lambda_handler(event, context):
 ![week3-ex-3-1-10](week3-ex-3-1-10.png)
 
 ```json
-    {
-       "city_str": "SEATTLE"
-    }
+{
+   "city_str": "SEATTLE"
+}
 ```
 
 ![week3-ex-3-1-11](week3-ex-3-1-11.png)
 
 ```json
-   {
-     "city_str": "SEATTLE",
-     "temp_int": 74
-   }
+{
+ "city_str": "SEATTLE",
+ "temp_int": 74
+}
 ```
 
 ![week3-ex-3-1-12](week3-ex-3-1-12.png)
 
 ```sh
-    Sending request to https://lambda.us-east-1.amazonaws.com/2015-03-31/functions/arn:aws:lambda:us-east-1:179741345863:function:get_weather/invocations
-    Method response body after transformations: {"city_str":"SEATTLE","temp_int":74}
+Sending request to https://lambda.us-east-1.amazonaws.com/2015-03-31/functions/arn:aws:lambda:us-east-1:179741345863:function:get_weather/invocations
+Method response body after transformations: {"city_str":"SEATTLE","temp_int":74}
 ```
 
 ![week3-ex-3-1-13](week3-ex-3-1-13.png)

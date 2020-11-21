@@ -11,11 +11,11 @@
 ![week1-ex-1-1-5](week1-ex-1-1-5.png)
 
 ```
-    Can my cat go outside
-    Is it warm enough for my cat
-    Can I let my cat out in {city_str}
-    Should my cat wear booties in {city_str}
-    Will my cat stay dry in {city_str}
+Can my cat go outside
+Is it warm enough for my cat
+Can I let my cat out in {city_str}
+Should my cat wear booties in {city_str}
+Will my cat stay dry in {city_str}
 ```
 
 ![week1-ex-1-1-6](week1-ex-1-1-6.png)
@@ -23,13 +23,13 @@
 ![week1-ex-1-1-7](week1-ex-1-1-7.png)
 
 ```
-		So you want to know if your cat can go out today in {city_str}?
+So you want to know if your cat can go out today in {city_str}?
 ```
 
 ![week1-ex-1-1-8](week1-ex-1-1-8.png)
 
 ```
-		Sorry, can you please repeat your initial question?
+Sorry, can you please repeat your initial question?
 ```
 
 ![week1-ex-1-1-9](week1-ex-1-1-9.png)![week1-ex-1-1-10](week1-ex-1-1-10.png)

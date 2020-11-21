@@ -83,35 +83,35 @@ def lambda_handler(event, context):
 ![week3-ex-3-2-10](week3-ex-3-2-10.png)
 
 ```json
-    {
-      "city_str": "DENVER"
-    }
+{
+  "city_str": "DENVER"
+}
 ```
 
 ![week3-ex-3-2-11](week3-ex-3-2-11.png)
 
 ```json
-    {
-      "temp_int": 38,
-      "city_str": "DENVER"
-    }
+{
+  "temp_int": 38,
+  "city_str": "DENVER"
+}
 ```
 
 ![week3-ex-3-2-12](week3-ex-3-2-12.png)
 
 ```json
-    {
-      "city_str": "PITTSBURGH"
-    }
+{
+  "city_str": "PITTSBURGH"
+}
 ```
 
 ![week3-ex-3-2-13](week3-ex-3-2-13.png)
 
 ```json
-    {
-      "temp_int": 78,
-      "city_str": "PITTSBURGH"
-    }
+{
+  "temp_int": 78,
+  "city_str": "PITTSBURGH"
+}
 ```
 
 ![week3-ex-3-2-14](week3-ex-3-2-14.png)
