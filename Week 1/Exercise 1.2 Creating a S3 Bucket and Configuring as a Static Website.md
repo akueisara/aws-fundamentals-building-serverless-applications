@@ -32,7 +32,7 @@
 ![week1-ex-1-2-6](week1-ex-1-2-6.png)
 
 ```
-		s3website.zip
+		https://github.com/akueisara/aws-fundamentals-building-serverless-applications/blob/main/Week%201/s3website.zip
 ```
 
 ![week1-ex-1-2-7](week1-ex-1-2-7.png)
