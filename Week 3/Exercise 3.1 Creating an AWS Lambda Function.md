@@ -28,13 +28,13 @@
 ![week3-ex-3-1-4](week3-ex-3-1-4.png)
 
 ```python
-    def lambda_handler(event, context):
-        city_str = event['city_str']
-        response = {
-            "city_str": city_str,
-            "temp_int": 74
-        }
-        return response
+def lambda_handler(event, context):
+    city_str = event['city_str']
+    response = {
+        "city_str": city_str,
+        "temp_int": 74
+    }
+    return response
 ```
 
 ![week3-ex-3-1-5](week3-ex-3-1-5.png)
